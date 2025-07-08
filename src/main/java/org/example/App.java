@@ -8,12 +8,12 @@ import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
 import org.json.JSONObject;
-import org.json.JSONArray;
 
-public class Main {
+
+public class App {
     public static void main(String[] args) {
 
-        String myAPIkey = "...";
+        String myAPIkey = "";
         String city = "Moenchengladbach";
 
 
